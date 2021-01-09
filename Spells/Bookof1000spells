@@ -20,7 +20,7 @@
 	"spell": [
 		{
 			"name": "Ability Rip",
-			"source": "BookofSpells",
+			"source": "Bookofspells",
 			"page": 0,
 			"level": 6,
 			"school": "N",
@@ -62,7 +62,7 @@
   			"spell": [
 		{
 			"name": "Courtier's Cover",
-			"source": "BookofSpells",
+			"source": "Bookofspells",
 			"page": 0,
 			"level": 1,
 			"school": "E",
