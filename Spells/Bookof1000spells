@@ -5,15 +5,17 @@
 				"json": "Bookofspells",
 				"abbreviation": "BOS",
 				"full": "Book of 1000 spells",
-				"version": "1",
 				"authors": [
-					"Scrim, Kaal"
+					"Scrim","Kaal"
 				],
 				"convertedBy": [
-					"Scrim, Kaal"
+					"Scrim","Kaal"
 				],
+				"version": "1",
+				"TargetSchema": "1"
 			}
 		],
+		
 	},
 	"spell": [
 		{
