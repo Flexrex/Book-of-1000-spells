@@ -2,9 +2,15 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "AR",
-				"abbreviation": "AR",
-				"full": "Ability rip",
+				"json": "Bokofspells",
+				"abbreviation": "BOS",
+				"full": "Book of 1000 spells",
+				"authors": [
+					"Scrim, Kaal"
+				],
+				"convertedBy": [
+					"Scrim, Kaal"
+				],
 			}
 		],
 	},
