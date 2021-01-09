@@ -1,4 +1,10 @@
 {
+	"_meta": {
+		"sources": [
+			{
+				"json": "Ability rip",
+			],
+		},
 	"spell": [
 		{
 			"name": "Ability Rip",
