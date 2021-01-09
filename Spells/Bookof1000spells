@@ -5,6 +5,7 @@
 				"json": "Bookofspells",
 				"abbreviation": "BOS",
 				"full": "Book of 1000 spells",
+				"version": "1",
 				"authors": [
 					"Scrim, Kaal"
 				],
